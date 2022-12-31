@@ -70,7 +70,7 @@
                 "icons": [
                   "nailed-foot"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 0
               },
               "1": {
@@ -78,14 +78,14 @@
                   "nailed-foot",
                   "fluffy-wing"
                 ],
-                "label": "{i1}&{i2}",
+                "format": "{i1}&{i2}",
                 "order": 1
               },
               "2": {
                 "icons": [
                   "demolish"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 2
               }
             },
@@ -114,7 +114,6 @@
             "ranks": {
               "1": {
                 "order": 0,
-                "statType": "value",
                 "number": 1
               }
             },
@@ -172,7 +171,7 @@
                 "icons": [
                   "nailed-foot"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 0
               },
               "1": {
@@ -180,16 +179,15 @@
                   "nailed-foot",
                   "fluffy-wing"
                 ],
-                "label": "{i1}&{i2}",
+                "format": "{i1}&{i2}",
                 "order": 1,
-                "statType": "value",
                 "number": 1
               },
               "2": {
                 "icons": [
                   "demolish"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 2
               }
             },
@@ -214,7 +212,6 @@
             "ranks": {
               "1": {
                 "order": 0,
-                "statType": "value",
                 "number": 1
               }
             },
@@ -263,7 +260,6 @@
             "ranks": {
               "1": {
                 "order": 0,
-                "statType": "value",
                 "number": 1
               }
             },
@@ -336,7 +332,7 @@
                 "icons": [
                   "nailed-foot"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 0
               },
               "1": {
@@ -344,16 +340,15 @@
                   "nailed-foot",
                   "fluffy-wing"
                 ],
-                "label": "{i1}&{i2}",
+                "format": "{i1}&{i2}",
                 "order": 1,
-                "statType": "value",
                 "number": 1
               },
               "2": {
                 "icons": [
                   "demolish"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 2
               }
             },
@@ -384,7 +379,6 @@
             "ranks": {
               "1": {
                 "order": 0,
-                "statType": "value",
                 "number": 1
               }
             },
@@ -457,7 +451,7 @@
                 "icons": [
                   "nailed-foot"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 0
               },
               "1": {
@@ -465,16 +459,15 @@
                   "nailed-foot",
                   "fluffy-wing"
                 ],
-                "label": "{i1}&{i2}",
+                "format": "{i1}&{i2}",
                 "order": 1,
-                "statType": "value",
                 "number": 1
               },
               "2": {
                 "icons": [
                   "demolish"
                 ],
-                "label": "{i1}",
+                "format": "{i1}",
                 "order": 2
               }
             },
@@ -504,7 +497,6 @@
             "ranks": {
               "1": {
                 "order": 0,
-                "statType": "value",
                 "number": 1
               }
             },
