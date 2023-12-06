@@ -5,9 +5,9 @@
   "genre": "fantasy",
   "publisher": "BetaDwarf Entertainment",
   "url": "https://minionmastersthegame.com/",
-  "notes": "This manifest is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
+  "notes": "This rulebook is provided for the purposes of testing *Rosterizer* and is not intended for distribution.",
   "wip": true,
-  "manifest": {
+  "rulebook": {
     "assetTaxonomy": {
       "Ability Card": {
         "aspects": {
