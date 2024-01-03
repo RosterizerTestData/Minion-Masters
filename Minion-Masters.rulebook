@@ -1,6 +1,6 @@
 {
   "name": "Minion Masters",
-  "revision": "0.1.1",
+  "revision": "0.2.0",
   "game": "Minion Masters",
   "genre": "fantasy",
   "publisher": "BetaDwarf Entertainment",
@@ -9339,7 +9339,7 @@
         },
         "text": "Can only be summoned near your Master Tower.If it dies, {\"Transform\", \"TERM\",\"TransformBuff\"} a random enemy Minion or Building into a friendly {\"Mana Puff\", \"CARD_REF\",\"ManaPuff\"}."
       },
-      "Roster§Deck": {
+      "Roster§Roster": {
         "allowed": {
           "classifications": [
             "Master",
@@ -9355,6 +9355,7 @@
           "Describe": true,
           "Group Includes": true,
           "Group Traits": true,
+          "Label": "Deck",
           "Lock Qty": true,
           "Rename": true,
           "Type": "conceptual",
